@@ -1,1 +1,1 @@
-https://research-recomendation-system.onrender.com/ use this link to view live website.
+https://wawt5phtphqkgzl8gwsq7q.streamlit.app/ use this link to access website.
